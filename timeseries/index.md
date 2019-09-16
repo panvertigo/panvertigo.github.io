@@ -5,4 +5,4 @@ description: Course Content
 
 Modeling US Public and Private Sector Spending:
 - [Decomposition Analysis (html)](Decomposition.html)
-- [Decomposition Analysis (ipynb)](M3 - Decomposition.ipynb)
+- [Decomposition Analysis (ipynb)](Decomposition.ipynb)
